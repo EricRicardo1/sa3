@@ -1,0 +1,70 @@
+html, body {
+    min-height: 100%;
+}
+
+body {
+    padding: 0;
+    margin: 0;
+}
+        
+footer {
+
+    
+	margin-top: 100%;
+}
+body{
+	overflow-x: hidden;
+	background-color: white;
+	padding: 0;
+	margin:0;
+}
+
+#a4{
+	width: 100%;
+	
+}
+
+#carroa4{
+	
+	 float: left;
+}
+
+.conteudo{
+	display: table;
+}
+.texto{
+	display: table-cell;
+	float: left;
+	width:  600px;
+	margin-left: 40px;
+	margin-top: 70px;
+}
+
+#interior{
+	float: right;
+	margin-left: 123px;
+}
+
+.texto2{
+	display: table-cell;
+	float: right;
+	width:  600px;
+	margin-left: 40px ;
+	margin-top: 70px;
+}
+
+.texto3{
+	display: table-cell;
+	float: left;
+	width:  600px;
+	margin-left: 40px;
+	margin-top: 20px;
+}
+
+        
+.footer{
+	height: 150px;
+	background: white;
+	background-color: black;
+}
+
